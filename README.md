@@ -1,6 +1,6 @@
 # Web  
 
-Collection of Web Applications I have developed. 
+Collection of web applications I have developed. 
 
 Loan Calculator:  
 https://github.com/Mauricio-Urrego/Loan-Calculator  
